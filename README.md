@@ -1,6 +1,6 @@
 # Purefact Branding Webpage - Journalism Project
 
-Website of Riya's Project <br />
+
 This is the one-page static website, made using HTML, CSS and Javascript on Client side.<br />
 It is the branding report project and description analysis of a company named as Purefact.<br />
 PureFact is a brand which covers a North INDIA in dairy products. <br />
